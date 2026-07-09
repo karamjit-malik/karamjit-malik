@@ -1,1 +1,1 @@
-src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Ronan;Final+Year+CSE+Student;Full-Stack+Developer;DSA+%7C+Problem+Solver"
+HI THERE !!
