@@ -22,11 +22,10 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Final-year CS undergrad, aiming for SDE roles
+- 🎓 Final-year CS undergrad
 - 🛠️ Full-stack developer — React, Node.js, Express, MySQL/MongoDB
-- ⚡ Built real-time systems (live auctions with Socket.io) and geospatial search platforms
 - 🧩 C++ problem solver — active on LeetCode & GeeksforGeeks
-- 📊 Currently exploring ML and scalable backend architecture
+- 📊 Currently exploring scalable backend architecture
 
 ---
 
