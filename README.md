@@ -33,7 +33,7 @@
 
 <summary><b>💻 Languages</b></summary>
 <br/>
-<img src="https://skillicons.dev/icons?i=cpp,python,javascript"/>
+<img src="https://skillicons.dev/icons?i=cpp,python,javascript,typescript"/>
 
 <summary><b>🎨 Frontend</b></summary>
 <br/>
